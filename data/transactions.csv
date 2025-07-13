@@ -1,0 +1,5 @@
+id,type,amount,category/source,date
+1,income,50000,Salary,2025-07-01
+2,expense,1200,Food,2025-07-02
+3,expense,8000,Rent,2025-07-05
+4,income,10000,Freelance,2025-07-10
